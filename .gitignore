@@ -1,6 +1,7 @@
 *.a
 *.o
 /build
+.cache/
 CMakeCache.txt
 CMakeFiles
 Makefile
